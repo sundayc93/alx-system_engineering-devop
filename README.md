@@ -1,2 +1,1 @@
-# alx-system_engineering-devop
-me
+absolute path name of the current working directory.
